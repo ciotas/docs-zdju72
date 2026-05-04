@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-1273x1.steadycraftsolutions.com/sitemap.xml
